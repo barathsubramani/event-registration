@@ -1,4 +1,4 @@
-# Event Registration Web Application
+## Event Registration Web Application
 
 ## AIM:
 
